@@ -1,19 +1,18 @@
 ## Hi there! :satisfied:
 
-Sou Daniel Henrique, sou um jovem apaixonado pela tecnologia!
+I'm Daniel Henrique, a young man passionate about technology!
 
-É aqui que exerço a minha profissão dos sonhos, e me aprofundo ainda mais no universo da progamação.
+This is where I practice my dream job, and delve even deeper into the world of programming.
 
- - :speech_balloon: Se desejar entrar em contato, <a href='https://linkedin.com/in/danielhbarbosa'> clique aqui! </a>
+ - :speech_balloon: If you wish to contact us, <a href='https://linkedin.com/in/danielhbarbosa'> click here! </a>
 
-## :raising_hand: Conecte-se comigo:
+## :raising_hand: Connect with me:
 
 <a href="https://linkedin.com/in/danielhbarbosa" target="blank"> <img src="https://github.com/user-attachments/assets/ca8c2df3-c6ac-4b1d-8953-13e47ff736b8" width="30px"> </a>
 
-## :computer: Tecnologias:
+## :computer: Technologies:
 
-Estas são algumas das tecnologias e ferramentas com as quais trabalho:
-
+These are some of the technologies and tools I work with:
 <br>
 
 <img src="https://github.com/user-attachments/assets/550da207-3a9d-4c3f-a56f-5063138ef125" width="30px">
