@@ -4,11 +4,11 @@ I'm Daniel Henrique, a young man passionate about technology!
 
 This is where I practice my dream job, and delve even deeper into the world of programming.
 
- - :speech_balloon: If you wish to contact us, <a href='https://linkedin.com/in/danielhbarbosa'> click here! </a>
+ - :speech_balloon: If you wish to contact us, <a href='https://linkedin.com/in/danielbertinbarbosa' target='_blank'> click here! </a>
 
 ## :raising_hand: Connect with me:
 
-<a href="https://linkedin.com/in/danielhbarbosa" target="blank"> <img src="https://github.com/user-attachments/assets/ca8c2df3-c6ac-4b1d-8953-13e47ff736b8" width="30px"> </a>
+<a href="https://linkedin.com/in/danielbertinbarbosa" target="_blank"> <img src="https://github.com/user-attachments/assets/ca8c2df3-c6ac-4b1d-8953-13e47ff736b8" width="30px"> </a>
 
 ## :computer: Technologies:
 
