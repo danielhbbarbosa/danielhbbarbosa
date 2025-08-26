@@ -29,4 +29,4 @@ These are some of the technologies and tools I work with:
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielhbbarbosa&hide_progress=true)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
